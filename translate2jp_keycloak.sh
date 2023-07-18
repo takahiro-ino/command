@@ -9,9 +9,11 @@ fi
 #export CONTENT_URL_PREFIX=https://raw.githubusercontent.com/RedHat-Middleware-Workshops/keycloak-workshop-guides/ocp-4.10/docs
 #export WORKSHOPS_URLS=https://raw.githubusercontent.com/RedHat-Middleware-Workshops/keycloak-workshop-guides/ocp-4.10/docs/_sso-workshop-guides.yml
 
-export CONTENT_URL_PREFIX=https://raw.githubusercontent.com/takahiro-ino/keycloak-workshop-guides/ocp-4.10/docs
-export WORKSHOPS_URLS=https://raw.githubusercontent.com/takahiro-ino/keycloak-workshop-guides/ocp-4.10/docs/_sso-workshop-guides.yml
+#export CONTENT_URL_PREFIX=https://raw.githubusercontent.com/takahiro-ino/keycloak-workshop-guides/ocp-4.10/docs
+#export WORKSHOPS_URLS=https://raw.githubusercontent.com/takahiro-ino/keycloak-workshop-guides/ocp-4.10/docs/_sso-workshop-guides.yml
 
+export CONTENT_URL_PREFIX=https://raw.githubusercontent.com/mamoru1112/keycloak-workshop-guides/ocp-4.10/docs
+export WORKSHOPS_URLS=https://raw.githubusercontent.com/mamoru1112/keycloak-workshop-guides/ocp-4.10/docs/_sso-workshop-guides.yml
 
 # ログイン
 export MASTER_URL=$1
